@@ -10,6 +10,8 @@ public class CardTrick {
         Card card = new Card();
         System.out.println("6 hearts");
         
+        Card card2 = new Card();
+        System.out.println("4 diamonds");
        
     }
     
